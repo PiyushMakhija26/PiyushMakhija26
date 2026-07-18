@@ -8,7 +8,7 @@ I am a technical software engineer specializing in **Clean Architecture**, **Dis
 
 - 🔭 **Current Focus**: Scaling AI proxy orchestration, multi-agent systems, and real-time financial sentiment analysis.
 - ⚡ **Core Philosophy**: Zero-telemetry local-first operations, high performance, and minimal code clutter.
-- 📫 **Contact**: [LinkedIn](https://linkedin.com) | [Email](mailto:piyush.makhija26@gmail.com) | [Portfolio Website](https://github.com/PiyushMakhija26/Portfolio-Website)
+- 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/piyush-makhija-539842340/) | [Email](mailto:piyush.makhija26@gmail.com) | [Portfolio Website](https://piyushmakhija26.github.io/Portfolio-Website/)
 
 ---
 
@@ -46,7 +46,7 @@ I am a technical software engineer specializing in **Clean Architecture**, **Dis
 * Full-stack customer relations rating and administrative ticketing tracker.
 * Containerized multi-service deployment orchestrating backend API, client dashboard, and DB.
 
-### 💻 [Portfolio Website](https://github.com/PiyushMakhija26/Portfolio-Website)
+### 💻 [Portfolio Website](https://piyushmakhija26.github.io/Portfolio-Website/)
 *HTML5 | CSS3 | JavaScript | Netlify*
 * Modern, responsive developer landing page featuring custom 3D card tilt effects.
 * Integrates a client-side keyword chatbot resume assistant.
