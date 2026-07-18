@@ -28,31 +28,36 @@ I am a technical software engineer specializing in **Clean Architecture**, **Dis
 
 ## 🏆 Featured Projects
 
-### 🌌 [OmniChat Enterprise](https://github.com/PiyushMakhija26/Omnichat)
-*Next.js + Python | Clean Architecture | RAG Pipeline*
+### 💬 [OmniChat](https://github.com/PiyushMakhija26/Omnichat)
+*Python + Next.js | Clean Architecture | RAG Pipeline*
 * Enterprise-grade multi-provider AI platform featuring intent-driven model routing.
 * Dual-layer conversation memory and secure AST expression evaluation.
 * Hybrid document RAG extraction pipeline with non-destructive versioning.
 
-### 🛡️ [Enterprise AI API Gateway](https://github.com/PiyushMakhija26/API-Gateway)
-*Python + FastAPI | Docker | Alembic | Redis*
-* Production-grade, highly scalable API Gateway for routing and managing traffic to multiple AI Providers (OpenAI, Gemini, Groq, Ollama).
-* Implements a Provider Adapter Pattern, proxy caching, rate limiting, and structured logging.
+### 🔒 [Focus Lock](https://github.com/PiyushMakhija26/Focus-Lock)
+*Chrome Extension | JavaScript | Local Storage*
+* Privacy-first, local-first attention management platform and voluntary website blocker extension.
+* Implements idle-detection exclusions to maintain accurate tracking patterns.
 
-### 🔒 [Secure Messaging System](https://github.com/PiyushMakhija26/Secure-Messaging-Website)
-*React + Node.js + WebSockets | TweetNaCl (E2E)*
-* Full-stack chat application with client-side asymmetric cryptography (TweetNaCl).
-* Server stores only encrypted messages and nonce values, implementing true Zero-Knowledge principles.
+### 🛡️ [API Gateway](https://github.com/PiyushMakhija26/API-Gateway)
+*FastAPI | PostgreSQL | Redis | Docker*
+* Highly scalable reverse proxy for centralizing, routing, caching, and rate limiting LLM requests.
+* Implements dynamic provider failovers and key rotation algorithms.
+
+### 💼 [Client Service Management System](https://github.com/PiyushMakhija26/ClientServiceManagementSystem)
+*Node.js + React | MongoDB | Docker*
+* Full-stack customer relations rating and administrative ticketing tracker.
+* Containerized multi-service deployment orchestrating backend API, client dashboard, and DB.
+
+### 💻 [Portfolio Website](https://github.com/PiyushMakhija26/Portfolio-Website)
+*HTML5 | CSS3 | JavaScript | Netlify*
+* Modern, responsive developer landing page featuring custom 3D card tilt effects.
+* Integrates a client-side keyword chatbot resume assistant.
 
 ### 📈 [Chart Pattern Intelligence Dashboard](https://github.com/PiyushMakhija26/Stock-Sentiment-Dashboard-)
-*Python + Streamlit + Gemini AI | NSE Stocks*
-* Real-time technical pattern scanner (Double Bottoms, RSI Divergence, S/R Hub).
-* Uses Gemini AI to compile news sentiment scores and explain breakout patterns in plain-English.
-
-### 👕 [Vision-Fit: AI Body Measurement](https://github.com/PiyushMakhija26/CV-Size-Estimation-Project-)
-*Python + OpenCV + MediaPipe*
-* Computes shoulder width and sizing recommendations using distance calibration (A4 Paper/Height reference).
-* Uses temporal smoothing (20-frame averaging) and frame validations.
+*Streamlit | Google Gemini AI | yfinance*
+* Real-time technical analysis scanner detecting stock breakouts and RSI divergences.
+* Summarizes market sentiment and translates complex pattern trends into plain-English.
 
 ---
 
