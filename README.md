@@ -8,7 +8,7 @@ I am a technical software engineer specializing in **Clean Architecture**, **Dis
 
 - 🔭 **Current Focus**: Scaling AI proxy orchestration, multi-agent systems, and real-time financial sentiment analysis.
 - ⚡ **Core Philosophy**: Zero-telemetry local-first operations, high performance, and minimal code clutter.
-- 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/piyush-makhija-539842340/) | [Email](mailto:piyush.makhija26@gmail.com) | [Portfolio Website](https://piyushmakhija26.github.io/Portfolio-Website/)
+- 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/piyush-makhija-539842340/) | [LeetCode](https://leetcode.com/u/piyushmakhija/) | [Portfolio Website](https://piyushmakhija26.github.io/Portfolio-Website/)
 
 ---
 
