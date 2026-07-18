@@ -1,8 +1,5 @@
 # 🚀 Piyush Makhija
 ### Full-Stack Software Engineer & AI Systems Developer
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiyushMakhija26&show_icons=true&theme=transparent&hide_border=true)](https://github.com/PiyushMakhija26)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushMakhija26&layout=compact&theme=transparent&hide_border=true)](https://github.com/PiyushMakhija26)
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=PiyushMakhija26&theme=transparent&hide_border=true)](https://github.com/PiyushMakhija26)
 
 ---
 
