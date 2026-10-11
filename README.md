@@ -15,12 +15,6 @@ Computer Science undergraduate specializing in backend engineering, distributed 
 
 ---
 
-## 🎓 Education
-* **VIT Bhopal University** — *Bachelor of Technology in Computer Science (AI & Machine Learning)* `2023 – 2027`
-  * **CGPA**: 8.83 / 10.0
-
----
-
 ## 🛠️ Technical Skills
 
 * **Languages**: `C++` | `C` | `Python` | `JavaScript` | `SQL` | `Go`
@@ -65,20 +59,6 @@ Computer Science undergraduate specializing in backend engineering, distributed 
 ### 🔒 [Focus Lock](https://github.com/PiyushMakhija26/Focus-Lock)
 *JavaScript, Chrome Extension API, IndexedDB*
 - Published a **privacy-first Chrome extension** featuring distraction blocking, YouTube filtering, and IndexedDB local analytics.
-
----
-
-## 📜 Certifications
-* **Applied Machine Learning** — University of Michigan
-* **Google IT Support** — Google
-* **Google Data Analytics** — Google
-* **Microsoft SC-900** — Microsoft Security, Compliance, and Identity Fundamentals
-
----
-
-## 🎖️ Achievements
-* **ET-AI Hackathon 2026**: Selected as a Semi-Finalist among participating teams.
-* **LeetCode**: Solved 100+ problems, demonstrating consistent problem-solving and DSA practice.
 
 ---
 
